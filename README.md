@@ -31,10 +31,11 @@ List the key features of your Anomaly Detection project.
 
 Provide detailed instructions on how to install your project. Include any dependencies, environment setup, and usage of virtual environments if necessary.
 
-```bash
-# Clone the repository
+
+Clone the repository
 git clone https://github.com/rakibulhsium/anomaly-detection-network.git
 
-# Install dependencies
+Install dependencies
 cd anomaly-detection
 pip install -r requirements.txt
+## Contact me via- siumrakibulhasan@gmail.com
